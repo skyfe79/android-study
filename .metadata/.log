@@ -1,0 +1,19 @@
+!SESSION 2013-02-16 22:33:47.940 -----------------------------------------------
+eclipse.buildId=M20120208-0800
+java.version=1.6.0_37
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/skyfe79/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/skyfe79/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-02-16 22:34:29.516
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-16 22:39:51.400
+!MESSAGE Failed to load properties file for project 'AndroidCamera'
+
+!ENTRY com.google.gdt.eclipse.suite 1 0 2013-02-16 22:51:12.069
+!MESSAGE Registering: com.google.appengine.eclipse.sdkbundle_1.6.6
+
+!ENTRY com.google.gdt.eclipse.suite 1 0 2013-02-16 22:51:12.227
+!MESSAGE Registering: com.google.gwt.eclipse.sdkbundle_2.4.0.v201205091048-rel-r37
