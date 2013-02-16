@@ -17,3 +17,9 @@ Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.
 
 !ENTRY com.google.gdt.eclipse.suite 1 0 2013-02-16 22:51:12.227
 !MESSAGE Registering: com.google.gwt.eclipse.sdkbundle_2.4.0.v201205091048-rel-r37
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-16 23:10:56.662
+!MESSAGE Failed to load properties file for project 'AndroidSizedCamera'
+
+!ENTRY org.eclipse.ui 4 4 2013-02-16 23:17:54.437
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ProblemView.
